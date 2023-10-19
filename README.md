@@ -18,7 +18,9 @@ The used interval for estimating the preferred phase was −0.25 s to +0.25 s ar
 
 # TFR figure :
 ![Capture-2](https://github.com/mohamad9014/spindle-ripple-coupling-/assets/121359931/bd6bb2dc-88db-4af7-976c-b56b06e35d27)
+
 As can be seen in the figure, 0 degrees is the peak and 180 degrees is the valley And we have a very strong power (ripplr coupling ) before the peak (zero degree)  , which corresponds to the figure below:
+
 ![Capture-3](https://github.com/mohamad9014/spindle-ripple-coupling-/assets/121359931/c63e2d1b-8603-436e-a4a0-29c926135ab8)
 
 
